@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muh Fikri Athalariq Hidayat B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Fresh Graduate Engineering Physics from Bandung Institute of Technology. Strong foundation in Automation, Finite-Element-Analysis, and Internet of Things (IoT), including Programmable Logic Controller (PLC), CFD Software (COMSOL Multiphysics), and ESP32 Microcontroller. Experience in Data Analysis and Machine Learning. Have a basic knowledge in Instrumentation & Control Systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
